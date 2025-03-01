@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQNABAAAAAAMKMzAPDdDwAzozP/390PMDOjM93//wAwMzqz0b9o9jMzM/PfjWj2MzMz3d2NaAYzo9Pd3Y1oBjOq0/PfjWj2MDMzs9G/aPYwMzM63f//AAAzozr/390PAKCqMwDw3Q8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jacob"
+    },
+    "image2": {
+        "data": "hwQYABAAAAAAAADADwAAAAAAADzzAAAAAADAMzMPAAAAAJw7Mw8AAP/Ambkz8wAA/8+bGTPzAAA/P6MZMfMAAD88qhMx8wAAzzw6EznzAADPPDqzOfP/APA8MzMz88MPAD8zMzP8zMwAPzMzM/r/MwA/MzPDqv//AMAzMzyj+v8AwDwzPDPK/wDAPDM8MzMPAMA8M8wzMw8AwKrD/D8zDwCsOsP8/zMPwKrzP/zAzA/w/8888wAAAAAAAMzzAAAAAAAA8P8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Time Space Ship"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
