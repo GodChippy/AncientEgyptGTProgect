@@ -8,7 +8,7 @@
   "description": "Beat The Game By Doing Evrything"
 }
 {
-  "keywords": ["Old", "Acient", "Very Old", "Very Very Old", "VEry Acient"]
+  "keywords": ["Old", "Acient", "Very Old", "Very Very Old", "Very Acient"]
 }
 {
   "license": "MIT",
@@ -19,4 +19,4 @@
 {
   "bugs": "https://github.com/user/repo/issues"
 }
- "repository" : "github:God_Chippy_V2/AnceintEgyptGTProject"
+ "repository": "github:God_Chippy_V2/AnceintEgyptGTProject"
